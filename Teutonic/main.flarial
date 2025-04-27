@@ -1,0 +1,150 @@
+[
+    {
+        "name": "noshadows",
+        "value": true
+    },
+    {
+        "name": "fontname",
+        "value": "Space Grotesk"
+    },
+    {
+        "name": "mod_fontname",
+        "value": "Space Grotesk"
+    },
+    {
+        "name": "blurintensity",
+        "value": 17.999996185302734
+    },
+    {
+        "name": "disable_alias",
+        "value": false
+    },
+    {
+        "name": "donotwait",
+        "value": true
+    },
+    {
+        "name": "dlassets",
+        "value": true
+    },
+    {
+        "name": "limitblurfps",
+        "value": true
+    },
+    {
+        "name": "dynamicblurrquality",
+        "value": true
+    },
+    {
+        "name": "highqualityblur",
+        "value": false
+    },
+    {
+        "name": "killdx",
+        "value": true
+    },
+    {
+        "name": "vsync",
+        "value": true
+    },
+    {
+        "name": "disableanims",
+        "value": false
+    },
+    {
+        "name": "anonymousApi",
+        "value": true
+    },
+    {
+        "name": "noicons",
+        "value": false
+    },
+    {
+        "name": "watermark",
+        "value": false
+    },
+    {
+        "name": "gui_font_scale",
+        "value": 1.0000007152557373
+    },
+    {
+        "name": "centreCursor",
+        "value": true
+    },
+    {
+        "name": "aliasingMode",
+        "value": "Default"
+    },
+    {
+        "name": "ejectKeybind",
+        "value": ""
+    },
+    {
+        "name": "enabledModulesOnTop",
+        "value": false
+    },
+    {
+        "name": "rgb_speed",
+        "value": 1.0000056028366089
+    },
+    {
+        "name": "rgb_saturation",
+        "value": 1.0
+    },
+    {
+        "name": "rgb_value",
+        "value": 1.0
+    },
+    {
+        "name": "apiusage",
+        "value": true
+    },
+    {
+        "name": "recreateAtStart",
+        "value": true
+    },
+    {
+        "name": "promotions",
+        "value": true
+    },
+    {
+        "name": "snappinglines",
+        "value": true
+    },
+    {
+        "name": "bufferingmode",
+        "value": ""
+    },
+    {
+        "name": "swapeffect",
+        "value": ""
+    },
+    {
+        "name": "modules_font_scale",
+        "value": 1.0
+    },
+    {
+        "name": "overrideFontWeight",
+        "value": false
+    },
+    {
+        "name": "nologoicon",
+        "value": false
+    },
+    {
+        "name": "fontWeight",
+        "value": ""
+    },
+    {
+        "name": "nochaticon",
+        "value": false
+    },
+    {
+        "name": "currentConfig",
+        "value": ""
+    },
+    {
+        "name": "forceIntel",
+        "value": true
+    }
+]

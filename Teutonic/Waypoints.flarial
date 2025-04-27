@@ -1,0 +1,554 @@
+[
+    {
+        "name": "keybind",
+        "value": ""
+    },
+    {
+        "name": "state-0",
+        "value": true
+    },
+    {
+        "name": "dimension-10",
+        "value": "Nether"
+    },
+    {
+        "name": "textalignment",
+        "value": "Center"
+    },
+    {
+        "name": "borderrgb",
+        "value": false
+    },
+    {
+        "name": "textShadow",
+        "value": false
+    },
+    {
+        "name": "enabled",
+        "value": true
+    },
+    {
+        "name": "favorite",
+        "value": true
+    },
+    {
+        "name": "color-0",
+        "value": "FFFFFF"
+    },
+    {
+        "name": "responsivewidth",
+        "value": false
+    },
+    {
+        "name": "border",
+        "value": true
+    },
+    {
+        "name": "percentageX",
+        "value": 0.0
+    },
+    {
+        "name": "textscale",
+        "value": 1.0
+    },
+    {
+        "name": "textShadowCol",
+        "value": "00000"
+    },
+    {
+        "name": "rectShadowOpacity",
+        "value": 0.550000011920929
+    },
+    {
+        "name": "percentageY",
+        "value": 0.0
+    },
+    {
+        "name": "borderOpacity",
+        "value": 1.0
+    },
+    {
+        "name": "borderWidth",
+        "value": 1.0
+    },
+    {
+        "name": "bgrgb",
+        "value": false
+    },
+    {
+        "name": "textuse",
+        "value": false
+    },
+    {
+        "name": "reversepaddingx",
+        "value": false
+    },
+    {
+        "name": "reversepaddingy",
+        "value": false
+    },
+    {
+        "name": "total",
+        "value": 14.0
+    },
+    {
+        "name": "padx",
+        "value": 0.0
+    },
+    {
+        "name": "pady",
+        "value": 0.0
+    },
+    {
+        "name": "bgColor",
+        "value": "000000"
+    },
+    {
+        "name": "textShadowOffset",
+        "value": 0.003000000026077032
+    },
+    {
+        "name": "BlurEffect",
+        "value": false
+    },
+    {
+        "name": "rectwidth",
+        "value": 1.0
+    },
+    {
+        "name": "z-3",
+        "value": 537.7976684570313
+    },
+    {
+        "name": "bgcolor",
+        "value": "330000"
+    },
+    {
+        "name": "rectheight",
+        "value": 1.0
+    },
+    {
+        "name": "x-1",
+        "value": 55.51750183105469
+    },
+    {
+        "name": "rounding",
+        "value": 32.0
+    },
+    {
+        "name": "textColor",
+        "value": "fafafa"
+    },
+    {
+        "name": "textRGB",
+        "value": false
+    },
+    {
+        "name": "opacity-3",
+        "value": 100.0
+    },
+    {
+        "name": "borderColor",
+        "value": "000000"
+    },
+    {
+        "name": "rgb-6",
+        "value": false
+    },
+    {
+        "name": "rectShadow",
+        "value": false
+    },
+    {
+        "name": "bgopacity",
+        "value": 0.25
+    },
+    {
+        "name": "dimension-1",
+        "value": "Overworld"
+    },
+    {
+        "name": "textShadowRGB",
+        "value": false
+    },
+    {
+        "name": "textcolor",
+        "value": "ff2400"
+    },
+    {
+        "name": "textrgb",
+        "value": false
+    },
+    {
+        "name": "rectShadowRGB",
+        "value": false
+    },
+    {
+        "name": "bordercolor",
+        "value": "660000"
+    },
+    {
+        "name": "rectShadowCol",
+        "value": "00000"
+    },
+    {
+        "name": "textShadowOpacity",
+        "value": 0.550000011920929
+    },
+    {
+        "name": "textopacity",
+        "value": 1.0
+    },
+    {
+        "name": "rectShadowOffset",
+        "value": 0.003000000026077032
+    },
+    {
+        "name": "bgOpacity",
+        "value": 0.550000011920929
+    },
+    {
+        "name": "textOpacity",
+        "value": 1.0
+    },
+    {
+        "name": "bgRGB",
+        "value": false
+    },
+    {
+        "name": "world-0",
+        "value": "pSgN2x0U0wU="
+    },
+    {
+        "name": "borderRGB",
+        "value": false
+    },
+    {
+        "name": "borderuse",
+        "value": false
+    },
+    {
+        "name": "uiscale",
+        "value": 0.6499999761581421
+    },
+    {
+        "name": "rotation",
+        "value": 0.0
+    },
+    {
+        "name": "borderthickness",
+        "value": 2.5000035762786865
+    },
+    {
+        "name": "distance",
+        "value": 5000.0
+    },
+    {
+        "name": "showmeters",
+        "value": true
+    },
+    {
+        "name": "bgrounding",
+        "value": 9.99998664855957
+    },
+    {
+        "name": "borderopacity",
+        "value": 1.0
+    },
+    {
+        "name": "bguse",
+        "value": false
+    },
+    {
+        "name": "y-0",
+        "value": 81.62001037597656
+    },
+    {
+        "name": "dimension-0",
+        "value": "Overworld"
+    },
+    {
+        "name": "opacity-4",
+        "value": 100.0
+    },
+    {
+        "name": "waypoint-0",
+        "value": "TestPoint"
+    },
+    {
+        "name": "x-0",
+        "value": 51.61642074584961
+    },
+    {
+        "name": "z-0",
+        "value": 78.53770446777344
+    },
+    {
+        "name": "rgb-0",
+        "value": false
+    },
+    {
+        "name": "waypoint-4",
+        "value": "Raid Farm v2"
+    },
+    {
+        "name": "opacity-0",
+        "value": 100.0
+    },
+    {
+        "name": "waypoint-1",
+        "value": "Base"
+    },
+    {
+        "name": "opacity-5",
+        "value": 100.0
+    },
+    {
+        "name": "color-1",
+        "value": "FFFFFF"
+    },
+    {
+        "name": "y-1",
+        "value": 81.62001037597656
+    },
+    {
+        "name": "z-1",
+        "value": 81.28258514404297
+    },
+    {
+        "name": "state-1",
+        "value": true
+    },
+    {
+        "name": "rgb-1",
+        "value": false
+    },
+    {
+        "name": "opacity-1",
+        "value": 100.0
+    },
+    {
+        "name": "waypoint-5",
+        "value": "Ominous Farm"
+    },
+    {
+        "name": "world-1",
+        "value": "world"
+    },
+    {
+        "name": "opacity-6",
+        "value": 100.0
+    },
+    {
+        "name": "waypoint-2",
+        "value": "Resin Farm"
+    },
+    {
+        "name": "color-2",
+        "value": "FFFFFF"
+    },
+    {
+        "name": "x-2",
+        "value": -65.35324096679688
+    },
+    {
+        "name": "y-2",
+        "value": 112.62001037597656
+    },
+    {
+        "name": "z-2",
+        "value": 193.2838134765625
+    },
+    {
+        "name": "state-2",
+        "value": true
+    },
+    {
+        "name": "rgb-2",
+        "value": false
+    },
+    {
+        "name": "waypoint-6",
+        "value": "Mushroom Island"
+    },
+    {
+        "name": "opacity-2",
+        "value": 100.0
+    },
+    {
+        "name": "world-2",
+        "value": "world"
+    },
+    {
+        "name": "dimension-2",
+        "value": "Overworld"
+    },
+    {
+        "name": "waypoint-3",
+        "value": "Iron Farm"
+    },
+    {
+        "name": "color-3",
+        "value": "FFFFFF"
+    },
+    {
+        "name": "x-3",
+        "value": -701.7883911132813
+    },
+    {
+        "name": "y-3",
+        "value": 66.55751037597656
+    },
+    {
+        "name": "state-3",
+        "value": true
+    },
+    {
+        "name": "rgb-3",
+        "value": false
+    },
+    {
+        "name": "world-3",
+        "value": "world"
+    },
+    {
+        "name": "dimension-3",
+        "value": "Overworld"
+    },
+    {
+        "name": "color-4",
+        "value": "FFFFFF"
+    },
+    {
+        "name": "x-4",
+        "value": -158.3000030517578
+    },
+    {
+        "name": "y-4",
+        "value": 235.62001037597656
+    },
+    {
+        "name": "z-4",
+        "value": 176.6354217529297
+    },
+    {
+        "name": "state-4",
+        "value": true
+    },
+    {
+        "name": "rgb-4",
+        "value": false
+    },
+    {
+        "name": "world-4",
+        "value": "world"
+    },
+    {
+        "name": "dimension-4",
+        "value": "Overworld"
+    },
+    {
+        "name": "color-5",
+        "value": "FFFFFF"
+    },
+    {
+        "name": "x-5",
+        "value": -1096.79541015625
+    },
+    {
+        "name": "y-5",
+        "value": 90.62001037597656
+    },
+    {
+        "name": "z-5",
+        "value": -588.4874877929688
+    },
+    {
+        "name": "state-5",
+        "value": true
+    },
+    {
+        "name": "rgb-5",
+        "value": false
+    },
+    {
+        "name": "world-5",
+        "value": "world"
+    },
+    {
+        "name": "dimension-5",
+        "value": "Overworld"
+    },
+    {
+        "name": "color-6",
+        "value": "FFFFFF"
+    },
+    {
+        "name": "x-6",
+        "value": 6953.5703125
+    },
+    {
+        "name": "y-6",
+        "value": 73.40464782714844
+    },
+    {
+        "name": "z-6",
+        "value": 862.6788330078125
+    },
+    {
+        "name": "state-6",
+        "value": true
+    },
+    {
+        "name": "world-6",
+        "value": "world"
+    },
+    {
+        "name": "dimension-6",
+        "value": "Overworld"
+    },
+    {
+        "name": "world-7",
+        "value": "world"
+    },
+    {
+        "name": "dimension-7",
+        "value": "Nether"
+    },
+    {
+        "name": "world-8",
+        "value": "world"
+    },
+    {
+        "name": "dimension-8",
+        "value": "Nether"
+    },
+    {
+        "name": "world-9",
+        "value": "world"
+    },
+    {
+        "name": "dimension-9",
+        "value": "Nether"
+    },
+    {
+        "name": "world-10",
+        "value": "world"
+    },
+    {
+        "name": "world-11",
+        "value": "world"
+    },
+    {
+        "name": "dimension-11",
+        "value": "Nether"
+    },
+    {
+        "name": "world-12",
+        "value": "world"
+    },
+    {
+        "name": "dimension-12",
+        "value": "Nether"
+    }
+]

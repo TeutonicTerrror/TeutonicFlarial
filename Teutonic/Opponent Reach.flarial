@@ -1,0 +1,166 @@
+[
+    {
+        "name": "textalignment",
+        "value": "Center"
+    },
+    {
+        "name": "keybind",
+        "value": ""
+    },
+    {
+        "name": "textShadow",
+        "value": false
+    },
+    {
+        "name": "enabled",
+        "value": false
+    },
+    {
+        "name": "responsivewidth",
+        "value": false
+    },
+    {
+        "name": "favorite",
+        "value": false
+    },
+    {
+        "name": "border",
+        "value": false
+    },
+    {
+        "name": "percentageX",
+        "value": 0.22714248299598694
+    },
+    {
+        "name": "rectShadowOpacity",
+        "value": 0.550000011920929
+    },
+    {
+        "name": "textShadowCol",
+        "value": "99000"
+    },
+    {
+        "name": "textscale",
+        "value": 0.0030004328582435846
+    },
+    {
+        "name": "borderOpacity",
+        "value": 1.0
+    },
+    {
+        "name": "percentageY",
+        "value": 0.8226380944252014
+    },
+    {
+        "name": "borderWidth",
+        "value": 1.0
+    },
+    {
+        "name": "reversepaddingx",
+        "value": false
+    },
+    {
+        "name": "reversepaddingy",
+        "value": false
+    },
+    {
+        "name": "padx",
+        "value": 0.0010000000474974513
+    },
+    {
+        "name": "BlurEffect",
+        "value": false
+    },
+    {
+        "name": "textShadowOffset",
+        "value": 0.0025496063753962517
+    },
+    {
+        "name": "bgColor",
+        "value": "330000"
+    },
+    {
+        "name": "pady",
+        "value": 0.0010000000474974513
+    },
+    {
+        "name": "rectwidth",
+        "value": 0.999999463558197
+    },
+    {
+        "name": "rectheight",
+        "value": 0.999999463558197
+    },
+    {
+        "name": "rounding",
+        "value": 31.999969482421875
+    },
+    {
+        "name": "textRGB",
+        "value": false
+    },
+    {
+        "name": "textColor",
+        "value": "ff2400"
+    },
+    {
+        "name": "tryToExcludeTeam",
+        "value": true
+    },
+    {
+        "name": "borderColor",
+        "value": "660000"
+    },
+    {
+        "name": "rectShadow",
+        "value": false
+    },
+    {
+        "name": "textShadowRGB",
+        "value": false
+    },
+    {
+        "name": "rectShadowRGB",
+        "value": false
+    },
+    {
+        "name": "textShadowOpacity",
+        "value": 0.550000011920929
+    },
+    {
+        "name": "rectShadowCol",
+        "value": "990000"
+    },
+    {
+        "name": "rectShadowOffset",
+        "value": 0.0030000056140124798
+    },
+    {
+        "name": "bgOpacity",
+        "value": 0.550000011920929
+    },
+    {
+        "name": "textOpacity",
+        "value": 1.0
+    },
+    {
+        "name": "bgRGB",
+        "value": false
+    },
+    {
+        "name": "text",
+        "value": "OPReach: {value}"
+    },
+    {
+        "name": "borderRGB",
+        "value": false
+    },
+    {
+        "name": "uiscale",
+        "value": 0.6499994397163391
+    },
+    {
+        "name": "rotation",
+        "value": 0.0
+    }
+]
