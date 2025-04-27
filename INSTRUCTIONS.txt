@@ -1,0 +1,21 @@
+Step 1) Unzip the file (which you already did to get to this file)
+
+Step 2) Open the "instructions.txt" (which you already did to get to this file)
+
+Step 3) Copy the folder named "Teutonic"
+
+Step 4) click "Windows Key" and "R Key" at the exact same time and paste the following path into it
+
+%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Flarial\Config
+
+Step 5) Paste the folder named "Teutonic" 
+
+Step 6) Launch Flarial Client
+
+Step 7) Open a World or Join a Server in Flarial
+
+Step 8) Click your keybind that opens your Flarial Mod Menu
+
+Step 9) Click the little settings gear at the top navbar of the mod menu
+
+Step 10) Go to configs and click the dropdown menu, then select "Teutonic" from that dropdown menu
