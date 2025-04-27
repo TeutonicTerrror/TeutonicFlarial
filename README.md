@@ -1,7 +1,7 @@
 # 🚀 TeutonicTerror's Flarial Client Mod 
 **aka "Terrial"**
 
-A enhanced Minecraft client mod featuring curated presets and improved UI elements.
+An enhanced theme for the Minecraft Client: Flarial
 
 ---
 
