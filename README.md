@@ -29,5 +29,5 @@ A enhanced Minecraft client mod featuring curated presets and improved UI elemen
 ---
 
 > ⚠️ **Important Note**  
-> This mod is provided *"as is"* and updates will follow Flarial's development cycle.  
+> This mod is provided *"as is"* and updates are not promised.  
 > Always back up your configurations before updating!
